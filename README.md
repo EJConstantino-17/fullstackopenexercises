@@ -8,3 +8,8 @@ Here's the collection of my exercises in the Full Stack Open course.
   * `0.4.md` - New note diagram
   * `0.5.md` - Single page app diagram
   * `0.6.md` - New note in Single page app diagram
+
+* **part1** - Introduction to React
+  * `anecdotes` - Anecdotes
+  * `courseinfo` - Course Information
+  * `unicafe` - Unicafe
