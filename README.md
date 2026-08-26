@@ -13,3 +13,8 @@ Here's the collection of my exercises in the Full Stack Open course.
   * `anecdotes` - Anecdotes
   * `courseinfo` - Course Information
   * `unicafe` - Unicafe
+
+* **part2** - Communicating with server
+  * `phonebook` - The Phonebook
+  * `courseinfo` - Course Information
+  * `countries` - Data for countries
