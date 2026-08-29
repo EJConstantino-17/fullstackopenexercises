@@ -21,4 +21,4 @@ Here's the collection of my exercises in the Full Stack Open course.
 
 * **part3** - Programming a server with NodeJS and Express
   * `phonebook` - Phonebook backend
-  * **Deployed Application:** [Phonebook App on Render]([https://phonebook-backend-xxx.onrender.com](https://fullstackopenexercises-2eiu.onrender.com/))
+  * **Deployed Application:** [Phonebook App on Render](https://fullstackopenexercises-2eiu.onrender.com/)
