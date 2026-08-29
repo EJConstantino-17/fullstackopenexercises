@@ -18,3 +18,6 @@ Here's the collection of my exercises in the Full Stack Open course.
   * `phonebook` - The Phonebook
   * `courseinfo` - Course Information
   * `countries` - Data for countries
+
+* **part3** - Programming a server with NodeJS and Express
+  * `phonebook` - Phonebook backend
